@@ -19,6 +19,8 @@ hello fugu, on va modifier cette ligne de code chacun de son côté pour génér
 
 abdel
 Can
+mete
+
 url to documentation of git-config: 
 https://git-scm.com/docs/git-config
 
