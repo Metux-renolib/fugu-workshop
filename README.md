@@ -12,4 +12,8 @@ summary du workshop:
 - résolution de conflits
 - rebase interactif avec pour squash ses commits
 
+
+
+
+hello fugu, on va modifier cette ligne de code chacun de son côté pour générer des conflits :)
 - 
