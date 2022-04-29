@@ -21,6 +21,8 @@ Georges
 abdel
 Can
 mete
+dihia
+Syphax
 
 
 url to documentation of git-config: 
