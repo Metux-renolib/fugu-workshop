@@ -17,6 +17,7 @@ summary du workshop:
 
 hello fugu, on va modifier cette ligne de code chacun de son côté pour générer des conflits :)
 
+Georges
 
 url to documentation of git-config: 
 https://git-scm.com/docs/git-config
