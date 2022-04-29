@@ -22,3 +22,9 @@ Georges
 url to documentation of git-config: 
 https://git-scm.com/docs/git-config
 
+prettier logging alias to put in your .gitconfig
+[alias]
+
+        lol = log --pretty=format:'%C(yellow)%h%Creset %C(green)%ad%Creset | %s %C(blue)%d%Creset %C(red)[%an]%Creset' --graph --date=short --color
+
+
