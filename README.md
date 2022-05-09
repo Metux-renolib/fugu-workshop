@@ -25,6 +25,9 @@ summary du workshop:
 
 hello fugu, on va modifier cette ligne de code chacun de son côté pour générer des conflits :)
 
+
+Georges Clowney
+
 abdel
 Can
 mete
