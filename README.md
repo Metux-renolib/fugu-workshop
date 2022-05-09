@@ -1,6 +1,11 @@
 # fugu-workshop
 
 Creation branche benoit 9/5
+Creation branche benoit 9/5
+Creation branche benoit 9/5
+Creation branche benoit 9/5
+Creation branche benoit 9/5
+Creation branche benoit 9/5
 
 workshop repository for fugu
 
@@ -20,7 +25,9 @@ summary du workshop:
 
 hello fugu, on va modifier cette ligne de code chacun de son côté pour générer des conflits :)
 
+
 Georges Clowney
+
 abdel
 Can
 mete
