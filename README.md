@@ -1,4 +1,7 @@
 # fugu-workshop
+
+Creation branche benoit 9/5
+
 workshop repository for fugu
 
 
